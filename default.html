@@ -12,10 +12,10 @@
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
     {% include head-custom.html %}
-  </head>
+  </header>
   <body>
     <div class="wrapper">
-      <header>
+      <head>
         <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
         <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
 
@@ -36,7 +36,7 @@
             <li><a class="buttons github" href="{{ site.github.owner_url }}">GitHub Profile</a></li>
           </ul>
         {% endif %}
-      </header>
+      </head>
 
       <section>
         {{ content }}
