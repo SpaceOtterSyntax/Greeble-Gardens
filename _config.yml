@@ -1,5 +1,5 @@
 title: Greeble Gardens
-description: Welcome to my version of a live, interactive discord bot with a Lite use of side of MySql. This project uses the Python programing language to bring to life a bot that will interact with users on the Discord.API. That is where it will be used for a small set of players to keep track of score of their competition. This is my proposed solution to a request in the PC Gaming Community for a intergrated custom bot.
+description: Welcome to my version of a live interactive discord bot with a side use of Lite MySql. This project uses the Python programing language to bring to life a bot that will interact with users on the Discord.API. That is where it will be used for a small set of players to keep track of score of their competition. This is my proposed solution to a request in the PC Gaming Community for a intergrated custom bot.
 The MySql DB
 show_downloads: true
 google_analytics:
