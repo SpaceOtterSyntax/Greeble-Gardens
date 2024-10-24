@@ -1,7 +1,8 @@
 ---
 ---
-@import url("https://fonts.googleapis.com/css?family=Arvo:400,700,400italic");
+
 @import "{{ site.theme }}";
+@import url("https://fonts.googleapis.com/css?family=Arvo:400,700,400italic");
 .highlight table td {
   padding:5
 }
