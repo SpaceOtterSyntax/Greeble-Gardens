@@ -15,7 +15,7 @@
   </header>
   <body>
     <div class="wrapper">
-      <head>
+      <header>
         <h1 class="header">{{ site.title | default:  }}</h1>
         <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
         
@@ -36,7 +36,7 @@
             <li><a class="buttons github" href="{{ site.github.owner_url }}">GitHub Profile</a></li>
           </ul>
         {% endif %}
-      </head>
+      </header>
 
       <section>
         {{ content }}
