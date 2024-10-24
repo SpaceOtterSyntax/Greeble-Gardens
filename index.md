@@ -2,17 +2,16 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
 [Link to another page](./another-page.html).
+# Project Summary
+The project below was created for a close loved one as a request to bring solution to an online gaming community issue. 
 
-There should be whitespace between paragraphs.
+**The Problem**: The players of a recently new beta website and avid users of discord. Needed a Discord bot that they could interact with the bots scoreboard of their 'seeds' score in the garden. Only admin role users would update the score on the bot manualy by vieweing the beta website. If possible the scoreboard would ideally update from the web directly(TBA). 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Though I have done some research and there are a couple bots and a limited scoreboards bots out there. Each of them with limitations each that did not completely suit the need of the initial project. Ultimately, I Raphael Dos Santos came up with a little proposed solution for the problem at hand. So to bring to life the project, I began to create the outlined view of the problems and came up with some solutions. 
 
-# Header 1
+Request: Discord Bot that can 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## Header 2
 
